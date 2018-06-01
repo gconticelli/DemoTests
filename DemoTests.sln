@@ -22,7 +22,6 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4E40654D-B655-41FE-A371-C383326CE670}"
 	ProjectSection(SolutionItems) = preProject
 		Unit Testing.pptx = Unit Testing.pptx
-		UnitTests.docx = UnitTests.docx
 	EndProjectSection
 EndProject
 Global
