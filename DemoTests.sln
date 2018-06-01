@@ -19,6 +19,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoTests.BLL.UnitTests.Rea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoTests.BLL.XunitTests.Ready", "DemoTests.BLL.XunitTests.Ready\DemoTests.BLL.XunitTests.Ready.csproj", "{B0646321-F776-4294-847F-C3FCB767706F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4E40654D-B655-41FE-A371-C383326CE670}"
+	ProjectSection(SolutionItems) = preProject
+		Unit Testing.pptx = Unit Testing.pptx
+		UnitTests.docx = UnitTests.docx
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
